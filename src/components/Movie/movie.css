@@ -1,0 +1,11 @@
+.movies {
+	list-style: none;
+	max-width: 100%;
+	display: inline-block;
+	padding: 20px
+}
+.movies img {
+	cursor: pointer;
+	width: 90%;
+	margin-bottom: 7px
+}
